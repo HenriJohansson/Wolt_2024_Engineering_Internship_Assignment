@@ -1,0 +1,7 @@
+
+#This configuration enables pytest discovery
+
+[tool.pytest.ini_options]
+pythonpath = [
+  ".", "src",
+]

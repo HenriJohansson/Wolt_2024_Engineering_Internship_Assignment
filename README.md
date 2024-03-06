@@ -25,7 +25,7 @@ To execute the pytest tests, use:
 
 Confirm that 51 tests pass successfully.
 
-## Running Development server
+## Running the development server
 To run the development server:
     python server.py
 	
@@ -48,6 +48,8 @@ With cart value of 500 lacking, 5€ needs to get paid. 2001 meter distance
 means starting cost 2€ and 
 for additional full 2 times 500 meters = 2€, and the left over 1 meter adds 1€ more.
 totalling 1000 or 10.00€ for the delivery
+
+## Virtual environment deactivation
 
 To deactivate the virtual environment on Windows, you can use:
     .venv\Scripts\deactivate.bat

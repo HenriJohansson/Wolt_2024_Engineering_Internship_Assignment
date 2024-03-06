@@ -29,7 +29,7 @@ Confirm that 51 tests pass successfully.
 To run the development server:
     python server.py
 	
-## Now sending a POST request
+## Sending a POST request
 
 Send a POST request to `http://127.0.0.1:5000/fee` with an example body as follows:
 	{

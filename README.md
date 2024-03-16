@@ -3,7 +3,15 @@
 Check the Wolt_README.md for more information regarding the specifications of the task.
 
 # HTTP Api submission
+The project is really well unit tested.
+For this project I did not incorporate end to end testing and there are three reasons why I did not.
+1. Specifications stated that the solution should be well tested, but did not mention types of testing.
+2. I could test the single API end point manually so essentially even the end to end functionality was tested.
+3. I had other applications to focus on.
+    
+Wolt's position with required assignment part gathered around 840 applicants.
 
+## Installation
 Before executing any commands, remember to `cd` to the correct folder where the `.venv` directory is located.
 
 ## Virtual environment
